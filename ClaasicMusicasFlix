@@ -13,22 +13,22 @@
 </section>
 
 <section class="categoria">
-    <h2>Filmes e séries</h2>
+  <h2>Filmes e séries</h2>
     <div class="categoria-videos">
-        <a href="https://www.youtube.com/watch?v=cs15QqG6Gjc">
-            <img src="https://img.youtube.com/vi/cs15QqG6Gjc/maxresdefault.jpg" />
+        <a href="https://youtu.be/w01zhlczYrA?si=Ow-BwBRZ-w-ZIGSY">
+            <img src="https://img.youtube.com/vi/Ow-BwBRZ-w-ZIGSY/maxresdefault.jpg" />
         </a>
-        <a href="https://www.youtube.com/watch?v=nCmIwcycUJ8">
-            <img src="https://img.youtube.com/vi/nCmIwcycUJ8/maxresdefault.jpg" />
+        <a href="https://youtu.be/GGmJ1mPO1rE?si=8XxPUY-vBjkHd_fy">
+            <img src="https://img.youtube.com/vi/8XxPUY-vBjkHd_fy/maxresdefault.jpg" />
         </a>
-        <a href="https://www.youtube.com/watch?v=FvRmEapoHRc">
-            <img src="https://img.youtube.com/vi/FvRmEapoHRc/maxresdefault.jpg" />
+        <a href="https://youtu.be/qWZP7ekGjJI?si=yndDjfKG7xhu0o8r">
+            <img src="https://img.youtube.com/vi/yndDjfKG7xhu0o8r/maxresdefault.jpg" />
         </a>
-        <a href="https://www.youtube.com/watch?v=Ipkw_hWW-Hw">
-            <img src="https://img.youtube.com/vi/Ipkw_hWW-Hw/maxresdefault.jpg" />
+        <a href="https://youtu.be/d3Z9GGVl3Dw?si=6SpByostahzeLClq">
+            <img src="https://img.youtube.com/vi/6SpByostahzeLClq/maxresdefault.jpg" />
         </a>
-        <a href="https://www.youtube.com/watch?v=d4DzMNGoyis">
-            <img src="https://img.youtube.com/vi/d4DzMNGoyis/maxresdefault.jpg" />
+        <a href="https://youtu.be/2lpgp0OU7lA?si=OYbAjL3HDMWETCVo">
+            <img src="https://img.youtube.com/vi/OYbAjL3HDMWETCVo/maxresdefault.jpg" />
         </a>
     </div>
 </section>
